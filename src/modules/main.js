@@ -36,4 +36,4 @@ function loadHomePage(){
     content.appendChild(pSix);
 };
 
-export const loadHome = loadHomePage();
+export default loadHomePage;

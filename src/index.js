@@ -1,4 +1,3 @@
 import "./styles.css";
-import { loadHome } from "./modules/main.js";
+import loadHomePage from "./modules/main.js";
 
-loadHomePage();

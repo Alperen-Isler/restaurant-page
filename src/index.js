@@ -1,4 +1,4 @@
 import "./styles.css";
+import { loadHome } from "./modules/main.js";
 
-console.log("Test");
-console.log("Test number dos");
+loadHomePage();
